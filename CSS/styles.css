@@ -1,0 +1,75 @@
+@font-face {
+	font-family: "GT";
+	src: url('../fonts/GT-Haptik-Regular.otf');
+	font-weight: 400px;
+
+}
+@font-face {
+	font-family: "Rotalic";
+	src: url('../fonts/GT-Haptik-Bold-Rotalic.otf');
+}
+
+body {
+	font-family: "GT", sans-serif;
+	font-size: 18px;
+	margin: 40px 0px 40px 0px;
+	background-color: #bfd6c7;
+	text-align: justify;
+	line-height: 23px;
+}
+
+em, i {
+	font-family: "Rotalic";
+}
+
+sup {
+	/*bottom: 80%;*/
+	font-size: 75%;
+}
+
+.separateur {
+	font-family: "Rotalic";
+	color: #ffffff;
+}
+
+img{
+	max-width: 100%;
+	height: auto;
+	}
+
+.exergue {
+	font-size: 16px;
+}
+
+p, .p1 {
+	letter-spacing: 0.02em;
+	word-spacing: 0.02em;
+	margin: 0px 0px 0px 200px;
+	text-indent: 10%;
+	width: 70%;
+}
+
+.p2 {
+	text-indent: 0%;
+	margin: 0px 0px 18px 200px;
+	width: 70%;
+	color: #ffffff;
+}
+
+.images p {
+	margin: 0;
+	text-indent: 0;
+	width: 100%;
+}
+
+
+.numero {
+	position: absolute;
+	left: 30px;
+	/*
+	margin-left: -20%;
+	margin-right: 13%;
+	*/
+	/*margin: 0 18px 0 -48px;*/
+	/*padding: 5%;*/
+}

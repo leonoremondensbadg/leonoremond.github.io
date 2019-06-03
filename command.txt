@@ -1,0 +1,30 @@
+pandoc -s index.md -c CSS/styles.css -o index.html
+
+Espace insécable (Find-replace) &nbsp; pour les guillemets, deux points, points d’interrogation, point d’exclamation
+
+Pour demander les italiques (intégrer le fichier de police en italique) :
+em, i {
+	font-family: « Typo-italic »;
+}
+
+	Habillage texte (CSS)
+.habillage {
+float: right;
+width: 40%;
+margin: 0px 40px 40px 0px;
+	}
+	(md)
+<div class="habillage">
+![Lange List 79-97](images/IMG_2142.jpg "Image index Lange List 79-97")
+</div>
+
+	Liens (md)
+[Ce lien](http:/exemple.net)
+	(CSS)
+a {
+	color: #ff0000;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
