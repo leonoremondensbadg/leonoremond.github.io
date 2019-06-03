@@ -1,12 +1,12 @@
 @font-face {
 	font-family: "GT";
-	src: url('../fonts/GT-Haptik-Regular.otf');
+	src: url('../fonts/GT-Haptik-Regula.otf');
 	font-weight: 400px;
 
 }
 @font-face {
 	font-family: "Rotalic";
-	src: url('../fonts/GT-Haptik-Bold-Rotalic.otf');
+	src: url('../fonts/GT-Haptik-Bol-Rotalic.otf');
 }
 
 body {
