@@ -2,7 +2,7 @@
 title: 
 ...
 
-<div class="p2"><span class="separateur">&#124;</span> Christian Vandendorpe, Du papyrus à l’hypertexte, Essais sur les mutations du texte et de la lecture, Éditions La Découverte, Paris, 1999<br>
+<div class="p2"><span class="separateur">&#124;</span> AAAA Christian Vandendorpe, Du papyrus à l’hypertexte, Essais sur les mutations du texte et de la lecture, Éditions La Découverte, Paris, 1999<br>
 <span class="separateur">§</span> Charles Sanders Peirce, Écrits sur le signe, rassemblés, traduits et commentés par Gérard Deledalle, Éditions du Seuil, Paris, 1992<br>
 <span class="separateur">†</span> Walter Benjamin, Paris, capitale du XIX<sup>e</sup> siècle, Éditions Allia, Paris, 2003<br>
 <span class="separateur">∏</span> Italo Calvino, Si une nuit d’hiver un voyageur, Éditions Gallimard, Paris, 2002<br>
