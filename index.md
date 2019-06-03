@@ -2,34 +2,30 @@
 title: 
 ...
 
-<div class="p2">&#124; Christian Vandendorpe, Du papyrus à l’hypertexte, Essais sur les mutations du texte et de la lecture, Éditions La Découverte, Paris, 1999<br>
+<div class="p2"><span class="separateur">&#124;</span> Christian Vandendorpe, Du papyrus à l’hypertexte, Essais sur les mutations du texte et de la lecture, Éditions La Découverte, Paris, 1999<br>
 <span class="separateur">§</span> Charles Sanders Peirce, Écrits sur le signe, rassemblés, traduits et commentés par Gérard Deledalle, Éditions du Seuil, Paris, 1992<br>
-† Walter Benjamin, Paris, capitale du XIX<sup>e</sup> siècle, Éditions Allia, Paris, 2003<br>
-∏ Italo Calvino, Si une nuit d’hiver un voyageur, Éditions Gallimard, Paris, 2002<br>
-◊ Gustave Flaubert, Bouvard et Pécuchet, Le Livre de Poche, Paris, 1999<br> 
-∞ Georges Perec, Penser-Classer, Éditions du Seuil, Paris, 2003<br>
-∑ Pierre Bayard, Comment parler des livres que l’on n’a pas lus ? Les Éditions de Minuit, 2007<br>
-¦ Linda Sanchez, 14628.jpg, Éditions Adéra, Lyon, 2012<br>
-∂ Louis Ucciani, Philippe Schepens, Nicole Salzard, L’index fouriériste, Les presses du réel, 2013<br>
-‡ Roland Barthes, Le bruissement de la langue, Essais critiques IV, Éditions du Seuil, Paris, 1984<br>
-Ω François Aubart, Cf., Éditions 2.0.1., Rennes, 2010<br> 
-× Jorge Luis Borges, Fictions, Le jardin aux sentiers qui bifurquent, Éditions Gallimard, 1965<br>
-≈ Lev Manovich, Le langage des nouveaux médias, Les presses du réel, Paris, 2010 <br>
-∆ Lire à l’écran, Contribution du design aux pratiques et aux apprentissages des savoirs dans la culture numérique, Annick Lantenois, coédition des éditions B42 et de l’École supérieure d’art et design Grenoble-Valence, 2011<br> 
-&#92; Gérard Genette, Palimpsestes, La littérature au second degré, Éditions Gallimard, Paris, 1982<br>
-∫ Paul Valéry, La conquête de l’ubiquité, Œuvres tome II, Pièces sur l’art, Éditions Gallimard, 1960</div>
+<span class="separateur">†</span> Walter Benjamin, Paris, capitale du XIX<sup>e</sup> siècle, Éditions Allia, Paris, 2003<br>
+<span class="separateur">∏</span> Italo Calvino, Si une nuit d’hiver un voyageur, Éditions Gallimard, Paris, 2002<br>
+<span class="separateur">◊</span> Gustave Flaubert, Bouvard et Pécuchet, Le Livre de Poche, Paris, 1999<br> 
+<span class="separateur">∞</span> Georges Perec, Penser-Classer, Éditions du Seuil, Paris, 2003<br>
+<span class="separateur">∑</span> Pierre Bayard, Comment parler des livres que l’on n’a pas lus ? Les Éditions de Minuit, 2007<br>
+<span class="separateur">¦</span> Linda Sanchez, 14628.jpg, Éditions Adéra, Lyon, 2012<br>
+<span class="separateur">∂</span> Louis Ucciani, Philippe Schepens, Nicole Salzard, L’index fouriériste, Les presses du réel, 2013<br>
+<span class="separateur">‡</span> Roland Barthes, Le bruissement de la langue, Essais critiques IV, Éditions du Seuil, Paris, 1984<br>
+<span class="separateur">Ω</span> François Aubart, Cf., Éditions 2.0.1., Rennes, 2010<br> 
+<span class="separateur">×</span> Jorge Luis Borges, Fictions, Le jardin aux sentiers qui bifurquent, Éditions Gallimard, 1965<br>
+<span class="separateur">≈</span> Lev Manovich, Le langage des nouveaux médias, Les presses du réel, Paris, 2010 <br>
+<span class="separateur">∆</span> Lire à l’écran, Contribution du design aux pratiques et aux apprentissages des savoirs dans la culture numérique, Annick Lantenois, coédition des éditions B42 et de l’École supérieure d’art et design Grenoble-Valence, 2011<br> 
+<span class="separateur">&#92;</span> Gérard Genette, Palimpsestes, La littérature au second degré, Éditions Gallimard, Paris, 1982<br>
+<span class="separateur">∫</span> Paul Valéry, La conquête de l’ubiquité, Œuvres tome II, Pièces sur l’art, Éditions Gallimard, 1960</div>
 
 <div class="numero">1.</div><div class="p1">L’index recouvre plusieurs définitions. Il désigne le doigt de la main le plus proche du pouce dont on se sert pour indiquer quelque chose à quelqu’un. Par analogie, l’index fait fonction de repérage matériel en documentologie ou dans le domaine technologique, comme l’aiguille d’un baromètre. L’index se rapporte également à la liste établie par l’Église des livres dont la lecture est interdite aux catholiques en raison des dangers qu’ils peuvent représenter pour la foi ou les mœurs. De même pour l’expression « mettre à l’index » qui signale quelqu’un ou quelque chose comme dangereux pour qu’on s’en détourne. Aussi, l’index est synonyme d’indice. En économie par exemple, il permet de mesurer le sens et l’ampleur de la variation d’un élément. Enfin, la définition de l’index qui m’intéressera le plus se situe dans sa fonction de rappel dans un système. Dans ce cas, il correspond à une liste alphabétique des sujets traités, des noms étudiés ou cités dans un ouvrage, accompagnés de références permettant de les localiser.</div>
 <div class="numero">2.</div><div class="p1"> Historiquement, le volumen déroule le texte <span class="separateur">|</span> tout comme le conteur dévide son histoire. Le lecteur n’a alors d’autres choix que de suivre le flux linéaire du texte. La naissance de la page rompt avec la continuité du rouleau, <span class="separateur">|</span> elle fera entrer [le texte] dans l’ordre de la tabularité. Dorénavant, la manipulation facilitée du codex permet au lecteur <span class="separateur">|</span> de n’être plus le récepteur passif du texte, mais de s’introduire à son tour dans le cycle de l’écriture par le jeu des annotations. Grâce au découpage du livre en pages, le texte acquiert une autonomie par rapport à l’oralité et il s’enrichit des tables de matières, de l’index et des titres courants entre le XI<sup>e</sup> et le XIII<sup>e</sup> siècle. À partir de ce moment-là, les imprimeurs multiplient les entrées dans le texte permettant ainsi au lecteur <span class="separateur">|</span> de moduler sa progression au fil des pages. Il peut désormais oublier ce qu’il a lu plus tôt en le retrouvant dans l’index à la fin du livre.</div>
 <div class="numero">3.</div><div class="p1"> À présent au pôle édition, je suis entre une conversation qui ne m’inclut pas mais à laquelle je pourrais être invitée à entrer n’importe quand. La conversation qui m’intéresse de suivre est devant moi à quelques mètres de là. Mais je ne peux pas encore y participer sans l’interrompre. Je ne suis ni réellement dans celle où je me projette ni tout à fait dans celle où je me place. Je suis entre les deux.</div>
-
-<span class="numero">4.</span> L'anecdote, quoique marginale, est significative. D’une part, elle met différentes histoires sur un même plan ; elle les réunit sans hiérarchie et il serait compliqué d’en tirer un ordre, des chapitres ou des mots-clés. D’autre part, l’anecdote apparaît justement car elle est révélatrice d’une situation particulière et qu’elle se détache, même un tout petit peu, du cours attendu des choses. 
-
-<span class="numero">1.1.</span> Charles Pierce écrit <span class="separateur">§</span> qu’une girouette est un indice de la direction du vent ; parce que en premier lieu elle prend réellement la même direction que le vent, […] ; et parce que en deuxième lieu […], elle attire notre attention dans cette direction. Le mot déictique “ici” dans un texte pourrait facilement être remplacé par le geste de la main de l’auteur. Ce constat engage la présence effective de l’énonciateur et autorise, par là même, une certaine interaction avec le lecteur. 
-
-<span class="numero">3.1.</span> Lorsque je me suis approchée de la porte du bus pour descendre l’autre jour, une femme téléphonait derrière moi. À travers la vitre, je l’ai vu mimer l’agencement des étagères dont elle parlait. Elle indiquait où se trouvait quelque chose. Je me suis dit que son interlocuteur ne se doutait pas des gestes qui appuyaient ses propos.
-
-<span class="numero">4.1.</span> La manicule est la schématisation d’une main qui montre utilisée dans l’idée de substituer le geste à la parole ou de l’appuyer. Identifiable dans son dessin, l’index dressé est univoque. Il annonce une information importante à laquelle il faut prêter attention. La manicule indique généralement une chose extérieure à elle telle une béquille qui n’a de valeur que pour ce qu’elle soutient. Elle est d’ailleurs isolée dans la marge en dehors du bloc de texte. 
+<div class="numero">4.</div><div class="p1"> L'anecdote, quoique marginale, est significative. D’une part, elle met différentes histoires sur un même plan ; elle les réunit sans hiérarchie et il serait compliqué d’en tirer un ordre, des chapitres ou des mots-clés. D’autre part, l’anecdote apparaît justement car elle est révélatrice d’une situation particulière et qu’elle se détache, même un tout petit peu, du cours attendu des choses.</div> 
+<div class="numero">1.1</div><div class="p1"> Charles Pierce écrit <span class="separateur">§</span> qu’une girouette est un indice de la direction du vent ; parce que en premier lieu elle prend réellement la même direction que le vent, […] ; et parce que en deuxième lieu […], elle attire notre attention dans cette direction. Le mot déictique “ici” dans un texte pourrait facilement être remplacé par le geste de la main de l’auteur. Ce constat engage la présence effective de l’énonciateur et autorise, par là même, une certaine interaction avec le lecteur.</div>  
+<div class="numero">3.1</div><div class="p1"> Lorsque je me suis approchée de la porte du bus pour descendre l’autre jour, une femme téléphonait derrière moi. À travers la vitre, je l’ai vu mimer l’agencement des étagères dont elle parlait. Elle indiquait où se trouvait quelque chose. Je me suis dit que son interlocuteur ne se doutait pas des gestes qui appuyaient ses propos.</div>
+<div class="numero">4.1</div><div class="p1"> La manicule est la schématisation d’une main qui montre utilisée dans l’idée de substituer le geste à la parole ou de l’appuyer. Identifiable dans son dessin, l’index dressé est univoque. Il annonce une information importante à laquelle il faut prêter attention. La manicule indique généralement une chose extérieure à elle telle une béquille qui n’a de valeur que pour ce qu’elle soutient. Elle est d’ailleurs isolée dans la marge en dehors du bloc de texte.</div> 
 
 <div class="images">
 ![](images/IMG_2138_web.jpg "Image index Lange List 79-97")
