@@ -49,6 +49,11 @@ p, .p1 {
 	width: 70%;
 }
 
+.close {
+	display: none;
+}
+
+
 .p2 {
 	text-indent: 0%;
 	margin: 0px 0px 18px 200px;
@@ -57,16 +62,40 @@ p, .p1 {
 }
 
 .images p {
-	margin: 0;
+	margin: 23px 0 0 0;
 	text-indent: 0;
 	width: 100%;
 }
 
 
-.numero {
-	position: absolute;
-	left: 50px;
+
+
+/* 	
+	Numéro cliquables ou non cliquables
+	Utiliser .numero 	pour les parties deployables	(class="numero")
+	Utiliser .num 		pour les parties fixes 			(class="num")
+*/	
+.numero, .num {
+	float: left;
+	margin-left: 50px;
+	clear: both;
 }
+
+.numero {
+	cursor: pointer;
+}
+
+/* Sections */
+.part {
+	margin-top: 23px;
+	clear:both;
+}
+.part::after { 
+   content: "";
+   display: block; 
+   clear: both;
+}
+
 
 /* Tooltip container */
 .tooltip {
@@ -111,11 +140,12 @@ p, .p1 {
 	}
 
 	body {
-	font-size: 16px;
-	line-height: 20px;
-}
+		font-size: 16px;
+		line-height: 20px;
+	}
+
 	.tooltip .tooltiptext {
   		width: 200px;
-}
+	}
 }
 
