@@ -117,6 +117,7 @@ p, .p1 {
   background-color: #bfd6c7;
   color: #fff;
   text-align: left;
+  text-indent: 0;
   line-height: 23px;
   padding: 0px 5px 4px 8px;
   /* Position the tooltip text - see examples below! */
