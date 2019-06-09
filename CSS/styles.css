@@ -32,6 +32,13 @@ sup {
 	color: #ffffff;
 }
 
+.rotalic {
+	font-family: "Rotalic";
+	color: #1d1d1b;
+	letter-spacing: 0.04em;
+	word-spacing: 0.04em;
+}
+
 img{
 	max-width: 100%;
 	height: auto;
@@ -106,11 +113,12 @@ p, .p1 {
 /* Tooltip text */
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 480px;
+  width: 270px;
   background-color: #bfd6c7;
   color: #fff;
   text-align: left;
-  padding: 0px 5px 0px 5px;
+  line-height: 23px;
+  padding: 0px 5px 4px 8px;
   /* Position the tooltip text - see examples below! */
   position: absolute;
   z-index: 6;
