@@ -74,6 +74,12 @@ p, .p1 {
 	width: 100%;
 }
 
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: hidden;
+  white-space: nowrap;
+}
+
 
 
 
@@ -107,7 +113,8 @@ p, .p1 {
 /* Tooltip container */
 .tooltip {
   position: relative;
-  display: inline-grid;
+  display: grid;
+  grid-template-columns: 800px;
 }
 
 /* Tooltip text */
