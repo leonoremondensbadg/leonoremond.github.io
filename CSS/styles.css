@@ -74,12 +74,6 @@ p, .p1 {
 	width: 100%;
 }
 
-.scrolling-wrapper {
-  overflow-x: scroll;
-  overflow-y: hidden;
-  white-space: nowrap;
-}
-
 
 
 
